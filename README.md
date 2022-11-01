@@ -15,7 +15,7 @@
     <div class="🐧">
         <div class="penguin-body">
             <div class="penguin-face">
-                <div class="penguin-eyes"></div>
+                <div class="penguin-eyes">aaa</div>
                 <div class="penguin-mouth"></div>
             </div>
             <div class="penguin-wings"></div>
