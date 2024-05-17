@@ -6,8 +6,7 @@ webに集中するためにモバイルアプリ開発は諦めました。
 夢はペンギンと同居すること。
 お世話は~~面倒~~大変なので、いずれペンギン型ロボットが誕生することを願っています。 本名ではない。
 
-- [Profile](https://satooru.me)
-- [Blog](https://satooru.me/blogs/1)
+[Profile](https://satooru.me)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatooRu65536&layout=compact&hide=SWIG,TeX,Makefile,jupyter%20notebook)
 
