@@ -6,7 +6,7 @@
 
 [Profile](https://satooru.me)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatooRu65536&layout=compact&hide=SWIG,TeX,Makefile,jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatooRu65536&layout=compact&hide=SWIG,TeX,Makefile,jupyter%20notebook,Java)
 
 ![](https://kusa.satooru.dev/evolution?username=SatooRu65536&)
 [毎日の草で進化する猿人](https://github.com/SatooRu65536/kusa-evolution)
